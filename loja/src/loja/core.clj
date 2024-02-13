@@ -31,7 +31,7 @@
   (println "1- Mostrar meu perfil: ")
   (println "2- Alterar meus dados: ")
   (println "3- Apagar conta: ")
-  (println "4- Voltar ao menu:")
+  (println "4- Voltar ao menu: ")
   )
 
 (defn menu_admin
